@@ -1,0 +1,70 @@
+body {
+  background-color: black;
+}
+
+.container{
+  text-align: center;
+  margin-top: 10%;
+}
+
+input [type=text],select{
+   width: 0%;
+   padding: 12px 20px;
+   margin:30px 0;
+   display: ruby;
+   box-sizing: content-box;
+   border: 1px solid red;
+}
+.input{
+  width: auto;
+  border:crimson;
+  background-color:azure;
+
+}
+
+button{
+  background-color:crimson;
+  width: auto;
+  cursor:cell;
+}
+
+button:hover{
+  background-color: red;
+}
+.header{
+  width: 100%;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color: crimson;
+}
+
+.listData{
+  background-color: bisque;
+  font-size: 15px;
+  color: crimson;
+  text-align: left;
+  padding: 20%;
+  padding-right: 30%;
+  padding-left: 30px;
+  width: 50%;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  border-radius: 10px;
+  
+
+}
+.btn-position{
+  size: 59%;
+  position: relative;
+  left:40%;
+  top:-40px;
+}
+.btn{
+  size: 40%;
+  width: 10%;
+  height: 30%;
+  padding: 2%;
+  padding-left: center;
+  padding-top:1%;
+  padding-bottom: 1cqmax;
+}
